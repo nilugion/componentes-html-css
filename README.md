@@ -9,3 +9,4 @@
 - Formulários 
 - Lista de imagens 
 - Rodapé que leva para o topo 
+- Animações com CSS
