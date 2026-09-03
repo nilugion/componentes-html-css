@@ -1,0 +1,49 @@
+* {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+
+}
+
+
+div {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+
+div h1{
+    margin: 20px; 
+    
+}
+
+
+div h2{
+    margin: 20px;
+
+}
+
+ul { 
+list-style: none;
+}
+
+a{
+    text-decoration: none;
+    background-color: yellowgreen;
+    padding: 10px; 
+    display: block;
+    width: 150px;
+    margin: 10px auto;
+    border-radius: 10px;
+    color:#000;
+    transition: 0.5s;
+
+}
+
+a:hover{
+    background-color: #000;
+    color:yellowgreen;
+    transform: scale(1.2);
+
+}
+
