@@ -1,0 +1,44 @@
+* {
+    padding: 0; 
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+#menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    width: 650px;
+    padding: 10px;
+    margin: 10px auto; 
+    border-radius: 15px;
+}
+
+
+
+body {
+    background-color: #f5EDD8;
+}
+
+
+ul {
+    list-style: none;
+}
+
+#menulist {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+#menulist li a {
+        display: block;
+        padding: 5px;
+        margin: 5px ;
+        border-radius: 15px;
+        background-color: rgb(255, 123, 96);
+        color: rgb(0, 0, 0);
+        text-decoration:none;
+}
