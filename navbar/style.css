@@ -1,5 +1,5 @@
 * {
-    padding: 0; 
+    padding: 0;
     margin: 0;
     font-family: sans-serif;
     box-sizing: border-box;
@@ -10,9 +10,9 @@
     align-items: center;
     justify-content: space-between;
     background-color: #fff;
-    width: 650px;
+    width: 800px;
     padding: 10px;
-    margin: 10px auto; 
+    margin: 10px auto;
     border-radius: 15px;
 }
 
@@ -34,11 +34,30 @@ ul {
 }
 
 #menulist li a {
-        display: block;
-        padding: 5px;
-        margin: 5px ;
-        border-radius: 15px;
-        background-color: rgb(255, 123, 96);
-        color: rgb(0, 0, 0);
-        text-decoration:none;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "Ubuntu", sans-serif;
+}
+
+#menulist li a:hover {
+    background-color: #f5a8a8;
+    transform: scale(1.1);
+
+}
+
+
+#menulist li a:target {
+    background-color:#94044A;
+    color: #fff;
+
+}
+
+h1 {
+    color:#94044A;
+   font-family: "Ubuntu", sans-serif;
 }

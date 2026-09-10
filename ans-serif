@@ -1,0 +1,35 @@
+[33mcommit 123de67790232c337bb2e27ff77bac249e361273[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mprimeira-br[m[33m)[m
+Author: LUCAS GONDIM SAMPAIO SALES <lucassales0112@digitalcollege.internal>
+Date:   Wed Sep 9 20:14:07 2026 -0300
+
+    Criação nova pasta chamada Navbar, onde há 2 novos arquivos html css
+
+[33mcommit fcc81f92f3bc167ad753eba02fd79ebc5d5c7167[m
+Author: LUCAS GONDIM SAMPAIO SALES <lucassales0112@digitalcollege.internal>
+Date:   Wed Sep 2 21:09:28 2026 -0300
+
+    EDIÇÃO DO CÓDGIO HTML E ADIÇÃO DO CSS COM A INTERFACE
+
+[33mcommit 46abba13d079f617df411393ab208d756e79d4f6[m
+Author: LUCAS GONDIM SAMPAIO SALES <lucassales0112@digitalcollege.internal>
+Date:   Wed Aug 26 21:42:24 2026 -0300
+
+    Novo arquivo html, com acesso à página da Digital College
+
+[33mcommit 10dc5c3d02534e2a05fabbfa59cbff3c66e5b665[m[33m ([m[1;31morigin/primeira-br[m[33m)[m
+Author: LUCAS GONDIM SAMPAIO SALES <lucassales0112@digitalcollege.internal>
+Date:   Wed Aug 26 19:55:16 2026 -0300
+
+    docs README.md, nova feature e nova BRANCH
+
+[33mcommit d6df898c431b52d7f6a8ea77c5962347090ee762[m
+Author: LUCAS GONDIM SAMPAIO SALES <lucassales0112@digitalcollege.internal>
+Date:   Wed Aug 26 19:14:57 2026 -0300
+
+    msg
+
+[33mcommit 2e463a5a7a1e03598482de8795ac6d0dc89027af[m
+Author: Lucas Sales <158531480+nilugion@users.noreply.github.com>
+Date:   Wed Aug 26 18:38:43 2026 -0300
+
+    Initial commit
